@@ -1,5 +1,7 @@
 # wwc-lightning-talks
 
+[![Build Status](https://travis-ci.org/makearl/wwc-lightning-talks.svg?branch=master)](https://travis-ci.org/makearl/wwc-lightning-talks)
+
 Example project for the February 2017 Women Who Code Lightning Talks
 
 ## Setup
